@@ -1,0 +1,19 @@
+# Built-in binary and object files
+/bin
+/obj
+
+# Package files
+*.a
+
+# Temporary files
+*.tmp
+
+# Editor-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS-specific files
+.DS_Store
+Thumbs.db
